@@ -7,4 +7,9 @@ Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas para este curso son: 
+- Tener nociones de desarrollo backend
+- Aprender habilidades que complementen las vistas en FrontEnd
+- Conoce Git, y familiarizarme mas con Github
+
 🚀
